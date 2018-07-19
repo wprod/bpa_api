@@ -1,15 +1,15 @@
 <?php
 
-namespace App\Domain\Model\Article;
+namespace App\Domain\Model\Question;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Class Article
+ * Class Question
  * @ORM\Entity
- * @package App\Domain\Model\Article
+ * @package App\Domain\Model\Question
  */
-class Article
+class Question
 {
 
     /**
